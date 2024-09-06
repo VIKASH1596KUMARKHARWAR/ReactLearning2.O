@@ -1,0 +1,30 @@
+open source for building the  user interface
+not a framework 
+focus  on ui
+rich ecosystem
+
+component based architecture    
+    --reusable code (same component can be used in angular and vue )
+
+react is declarative
+    -- tell react u want and react will build the actual ui
+    -- react will handel updating and rendering of the components
+    -- dom updates are handel gracefully in react
+
+more on why react ??
+    -- react doesn't assume the tech u r using, seamlessly integrate into any of ur application
+    -- portion of ur  page or a complete page or even an entire application itself
+      (one have good knowledge of react ---> switch to react native for mobile app)
+
+contents ::   fundamentals,http, routing, redux, utilities
+
+  
+
+stable version of node is 18 
+
+   npx create-react-app hello-world  --> functional component
+npm package runner (automatically download)
+
+    npm install create-react-app -g
+    create-react-app <app_name>
+

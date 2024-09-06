@@ -1,0 +1,12 @@
+initial pushing on git ::
+    git init 
+    git branch -m master main
+
+    git remote add origin git@github.com:VIKASH1596KUMARKHARWAR/ReactLearning2.O.git
+    git add .
+    git commit -m "Initial commit"
+
+
+The error you're encountering is due to Git detecting a potential ownership issue with the directory you're working in. You can resolve this by marking the directory as "safe."
+
+        git config --global --add safe.directory '/media/vikash/data/FSD/React 2.O'
